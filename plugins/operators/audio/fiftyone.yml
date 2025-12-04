@@ -1,0 +1,12 @@
+name: "@voxel51/audio"
+version: 0.0.1
+fiftyone:
+  version: ">=0.25"
+description: Audio processing operators for FiftyOne
+operators:
+  - play_audio
+  - get_audio_info
+  - generate_spectrogram
+  - regenerate_spectrograms
+  - run_audio_detection
+  - compute_audio_similarity
