@@ -14,3 +14,4 @@ be done before running any code snippets.
     works.
 -   Write unit tests for all major functions and test each time when there are
     changes and edit until all test pass again.
+-   Do not do unnecessary formatting changes on existing files.
